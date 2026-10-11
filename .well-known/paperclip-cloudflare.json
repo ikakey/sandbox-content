@@ -1,0 +1,15 @@
+{
+  "client_id": "https://ikakey.github.io/sandbox-content/.well-known/paperclip-cloudflare.json",
+  "client_name": "U-TEAM Paperclip",
+  "redirect_uris": [
+    "https://vmi3584169.tailf48d3.ts.net/api/tools/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
